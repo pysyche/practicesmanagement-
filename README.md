@@ -1,2 +1,2 @@
 # practicesmanagement-
-python coding
+ just python coding
